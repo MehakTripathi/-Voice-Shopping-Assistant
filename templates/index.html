@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Voice Shopping Assistant</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🛒 Voice Shopping Assistant</h1>
+      <p class="sub">Speak naturally: "Add 2 apples", "Remove milk", "Find toothpaste"</p>
+    </header>
+
+    <main>
+      <div class="controls">
+        <button id="startBtn">🎤 Start Listening</button>
+        <button id="stopBtn" disabled>■ Stop</button>
+        <div id="status"></div>
+      </div>
+
+      <section class="output">
+        <div id="recognized">Heard: —</div>
+        <div id="feedback"></div>
+      </section>
+
+      <section class="list">
+        <h2>Shopping List</h2>
+        <ul id="list"></ul>
+      </section>
+
+      <section class="suggestions">
+        <h3>Suggestions</h3>
+        <ul id="suggestions"></ul>
+      </section>
+    </main>
+
+    <footer>
+      <small>Simple demo — uses browser speech recognition and a Flask backend.</small>
+    </footer>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>

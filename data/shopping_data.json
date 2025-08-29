@@ -1,0 +1,49 @@
+{
+  "shopping_list": [
+    {
+      "item": "bread.",
+      "quantity": 2,
+      "category": "Bakery"
+    },
+    {
+      "item": "apple.",
+      "quantity": 2,
+      "category": "Produce"
+    },
+    {
+      "item": "milk.",
+      "quantity": 1,
+      "category": "Dairy"
+    }
+  ],
+  "history": [
+    {
+      "action": "add",
+      "item": "to bread."
+    },
+    {
+      "action": "add",
+      "item": "bread."
+    },
+    {
+      "action": "add",
+      "item": "apple."
+    },
+    {
+      "action": "remove",
+      "item": "2 bread."
+    },
+    {
+      "action": "remove",
+      "item": "2 bread."
+    },
+    {
+      "action": "add",
+      "item": "milk."
+    },
+    {
+      "action": "remove",
+      "item": "to bread."
+    }
+  ]
+}

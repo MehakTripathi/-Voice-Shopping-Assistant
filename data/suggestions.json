@@ -1,0 +1,14 @@
+[
+  {
+    "item": "bread",
+    "reason": "Frequently bought"
+  },
+  {
+    "item": "eggs",
+    "reason": "Often bought with milk"
+  },
+  {
+    "item": "almond milk",
+    "reason": "Substitute for milk"
+  }
+]
