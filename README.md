@@ -1,6 +1,8 @@
 # Voice Shopping Assistant - Minimal Demo
 This is a simple voice-command shopping list demo using a Flask backend and browser SpeechRecognition API.
 
+Website URL- https://voice-shopping-assistant-aeeo.onrender.com
+
 ## What's included
 - `app.py` - Flask backend with simple command parsing and JSON persistence.
 - `templates/index.html`, `static/style.css`, `static/script.js`
