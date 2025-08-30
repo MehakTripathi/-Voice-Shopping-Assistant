@@ -11,9 +11,29 @@
       "category": "Produce"
     },
     {
-      "item": "milk.",
+      "item": "five bags.",
       "quantity": 1,
-      "category": "Dairy"
+      "category": "Other"
+    },
+    {
+      "item": "five bags.",
+      "quantity": 1,
+      "category": "Other"
+    },
+    {
+      "item": "five bags.",
+      "quantity": 1,
+      "category": "Other"
+    },
+    {
+      "item": "five bag.",
+      "quantity": 1,
+      "category": "Other"
+    },
+    {
+      "item": "butter.",
+      "quantity": 3,
+      "category": "Other"
     }
   ],
   "history": [
@@ -44,6 +64,94 @@
     {
       "action": "remove",
       "item": "to bread."
+    },
+    {
+      "action": "remove",
+      "item": "milk."
+    },
+    {
+      "action": "add",
+      "item": "five bags."
+    },
+    {
+      "action": "add",
+      "item": "five bags."
+    },
+    {
+      "action": "remove",
+      "item": "5 bags."
+    },
+    {
+      "action": "remove",
+      "item": "5 bags."
+    },
+    {
+      "action": "remove",
+      "item": "5 bags."
+    },
+    {
+      "action": "add",
+      "item": "five bags."
+    },
+    {
+      "action": "remove",
+      "item": "5 bags."
+    },
+    {
+      "action": "remove",
+      "item": "5 bags."
+    },
+    {
+      "action": "remove",
+      "item": "bags."
+    },
+    {
+      "action": "remove",
+      "item": "5 bags."
+    },
+    {
+      "action": "add",
+      "item": "toothpaste."
+    },
+    {
+      "action": "remove",
+      "item": "toothpaste."
+    },
+    {
+      "action": "remove",
+      "item": "5 bags."
+    },
+    {
+      "action": "remove",
+      "item": "5 bag."
+    },
+    {
+      "action": "add",
+      "item": "five bag."
+    },
+    {
+      "action": "remove",
+      "item": "5 bags."
+    },
+    {
+      "action": "remove",
+      "item": "fiv ebags."
+    },
+    {
+      "action": "remove",
+      "item": "five banks."
+    },
+    {
+      "action": "remove",
+      "item": "fiv ebags."
+    },
+    {
+      "action": "remove",
+      "item": "5 bags."
+    },
+    {
+      "action": "add",
+      "item": "butter."
     }
   ]
 }

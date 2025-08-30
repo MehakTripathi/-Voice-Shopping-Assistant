@@ -1,0 +1,74 @@
+[
+  {
+    "item": "milk",
+    "brand": "Amul",
+    "size": "1L",
+    "price": 30
+  },
+  {
+    "item": "milk",
+    "brand": "Mother Dairy",
+    "size": "500ml",
+    "price": 20
+  },
+  {
+    "item": "apples",
+    "brand": "Organic Farms",
+    "size": "1kg",
+    "price": 120
+  },
+  {
+    "item": "apples",
+    "brand": "Fresh Basket",
+    "size": "1kg",
+    "price": 90
+  },
+  {
+    "item": "toothpaste",
+    "brand": "Colgate",
+    "size": "100g",
+    "price": 45
+  },
+  {
+    "item": "toothpaste",
+    "brand": "Patanjali",
+    "size": "100g",
+    "price": 35
+  },
+  {
+    "item": "bread",
+    "brand": "Britannia",
+    "size": "400g",
+    "price": 25
+  },
+  {
+    "item": "bread",
+    "brand": "Harvest Gold",
+    "size": "400g",
+    "price": 28
+  },
+  {
+    "item": "eggs",
+    "brand": "Farm Fresh",
+    "size": "6 pcs",
+    "price": 55
+  },
+  {
+    "item": "eggs",
+    "brand": "Organic Nest",
+    "size": "6 pcs",
+    "price": 75
+  },
+  {
+    "item": "juice",
+    "brand": "Real",
+    "size": "1L",
+    "price": 110
+  },
+  {
+    "item": "juice",
+    "brand": "Tropicana",
+    "size": "1L",
+    "price": 115
+  }
+]
